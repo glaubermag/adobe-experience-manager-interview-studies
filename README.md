@@ -1,4 +1,4 @@
-# AEM Interview Studies
+# Adobe Experience Manager (AEM) Interview Studies
 
 Hello, here you can find some questions and answers about Adobe Experience Manager. 	Feel free to add more details.
 
